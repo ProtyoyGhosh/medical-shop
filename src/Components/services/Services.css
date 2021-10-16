@@ -1,0 +1,29 @@
+.top-part {
+    margin-top: 30px;
+}
+
+.service-title {
+    color: black;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.service-sub-title {
+    color: black;
+    font-size: 17px;
+}
+
+.cart-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart {
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.cart:hover {
+    box-shadow: 2px 5px 10px grey;
+}
