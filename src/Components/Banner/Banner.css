@@ -1,0 +1,30 @@
+.banner {
+    background-image: url('../../images/Banner&Background/banner.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+}
+
+.banner-title {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.banner-sub-title {
+    color: white;
+    font-size: 32px;
+    margin-top: 10px;
+}
+
+.banner-btn {
+    border: none;
+    background-color: #ffffff;
+    color: black;
+    padding: 8px;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: 600;
+}
