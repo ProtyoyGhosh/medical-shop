@@ -31,8 +31,8 @@ const Services = () => {
                                         <div className="cart-img cart-items">
                                             <img src={service.image} alt="" />
                                         </div>
-                                        <h5 className='cart-items'>{service.name}</h5>
-                                        <p className='cart-items'>{service.description}</p>
+                                        <h5 className='cart-items m-2 p-2'>{service.name}</h5>
+                                        <p className='cart-items p-2'>{service.description}</p>
                                     </div>
                                 </div>
                             ))
